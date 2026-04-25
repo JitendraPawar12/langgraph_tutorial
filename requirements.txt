@@ -1,0 +1,4 @@
+langchain-core
+langchain_openai
+langchain_chat_models
+langgraph
