@@ -1,0 +1,4 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "chat.tools.terminal.preventShellHistory": false
+}
